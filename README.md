@@ -1,8 +1,7 @@
-# Project Title
-
-*Example:* **Analyzing CMS Payroll-Based Journal (PBJ) Staffing Data for Q1 2024**
+# Analyzing yearly sales and profit data for an Online Store
 ---
-![Dashboard Title](link-to-dashboard)
+![DAB- S  P Dashboard](https://github.com/user-attachments/assets/629b88a9-8749-4e87-ab4e-e64be5653001)
+![click to view dashboard](link-to-dashboard)
 ## Project Overview
 
 Provide a brief introduction to the project, its goals, and its context.
